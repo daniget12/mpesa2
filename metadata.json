@@ -1,0 +1,8 @@
+{
+  "name": "Remix TirfMarket",
+  "description": "Hyperlocal discount deals in Addis Ababa with instant M-PESA cashless payment for small shops and shoppers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
